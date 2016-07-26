@@ -1,0 +1,73 @@
+10
+
+dir
+1414
+http://192.168.1.167/svn/linxin2/com.Jglx.android.app/res
+http://192.168.1.167/svn/linxin2
+
+
+
+2015-09-17T09:50:51.082036Z
+1413
+lilifeng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cb42e7fd-5cd8-3f42-baaf-043de5df1ff4
+
+values-w820dp
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+anim
+dir
+
+raw
+dir
+
+drawable-xhdpi
+dir
+
+values
+dir
+
+drawable-hdpi
+dir
+
+values-v11
+dir
+
+menu
+dir
+
+values-v14
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout-sw550dp-large
+dir
+
+layout
+dir
+

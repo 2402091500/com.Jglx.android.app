@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linxin2/!svn/ver/1333/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima
+END
+CameraConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/CameraConfigurationManager.java
+END
+DecodeThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/DecodeThread.java
+END
+CaptureActivityHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/CaptureActivityHandler.java
+END
+FlashlightManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/FlashlightManager.java
+END
+DecodeHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/DecodeHandler.java
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linxin2/!svn/ver/456/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/CameraManager.java
+END
+InactivityTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/InactivityTimer.java
+END
+Intents.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/Intents.java
+END
+AutoFocusCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/AutoFocusCallback.java
+END
+FinishListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/FinishListener.java
+END
+DecodeFormatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/DecodeFormatManager.java
+END
+ViewfinderResultPointCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/ViewfinderResultPointCallback.java
+END
+MipcaActivityCapture.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/linxin2/!svn/ver/1333/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/MipcaActivityCapture.java
+END
+ViewfinderView.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linxin2/!svn/ver/456/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/ViewfinderView.java
+END
+PlanarYUVLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/PlanarYUVLuminanceSource.java
+END
+PreviewCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/346/com.Jglx.android.app/src/com/example/com/jglx/android/app/erweima/PreviewCallback.java
+END

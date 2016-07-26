@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/linxin2/!svn/ver/1383/com.Jglx.android.app/src/com/example/com/jglx/android/app/db
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linxin2/!svn/ver/1248/com.Jglx.android.app/src/com/example/com/jglx/android/app/db/UserDao.java
+END
+PushDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linxin2/!svn/ver/1379/com.Jglx.android.app/src/com/example/com/jglx/android/app/db/PushDao.java
+END
+LXDBManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/1383/com.Jglx.android.app/src/com/example/com/jglx/android/app/db/LXDBManager.java
+END
+InviteMessgeDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/406/com.Jglx.android.app/src/com/example/com/jglx/android/app/db/InviteMessgeDao.java
+END
+DbOpenHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/1252/com.Jglx.android.app/src/com/example/com/jglx/android/app/db/DbOpenHelper.java
+END
+NearDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/linxin2/!svn/ver/495/com.Jglx.android.app/src/com/example/com/jglx/android/app/db/NearDao.java
+END

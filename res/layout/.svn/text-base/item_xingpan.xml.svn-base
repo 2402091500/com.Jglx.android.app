@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg"
+    android:orientation="vertical" >
+
+    
+    
+     <com.example.com.jglx.android.app.view.RetangleImageView
+            android:id="@+id/xinpan_imag"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/pictures_no" />
+   
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginLeft="10dp" 
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="3dp"
+        android:weightSum="10">
+
+        <TextView
+            android:id="@+id/xinpan_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="保利观澜团购中心" 
+            android:textSize="16dp"
+            android:layout_weight="7"
+            />
+
+        <TextView
+            android:id="@+id/xinpan_times"
+            android:layout_weight="3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1小时前"
+            android:gravity="right"
+            android:textSize="10dp"
+             />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/xinpan_tips"
+        android:paddingLeft="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:paddingBottom="10dp"
+        android:drawableLeft="@drawable/xinpan_tips"
+        android:textColor="@color/green"
+        android:text="商圈  学区房   洋房" />
+
+</LinearLayout>

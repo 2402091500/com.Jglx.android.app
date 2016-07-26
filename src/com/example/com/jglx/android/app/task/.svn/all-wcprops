@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/linxin2/!svn/ver/656/com.Jglx.android.app/src/com/example/com/jglx/android/app/task
+END
+JoinGroupTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/651/com.Jglx.android.app/src/com/example/com/jglx/android/app/task/JoinGroupTask.java
+END
+LoadImageTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/520/com.Jglx.android.app/src/com/example/com/jglx/android/app/task/LoadImageTask.java
+END
+LogoutGroupTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/656/com.Jglx.android.app/src/com/example/com/jglx/android/app/task/LogoutGroupTask.java
+END
+LoadLocalBigImgTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linxin2/!svn/ver/540/com.Jglx.android.app/src/com/example/com/jglx/android/app/task/LoadLocalBigImgTask.java
+END
+LoadVideoImageTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/520/com.Jglx.android.app/src/com/example/com/jglx/android/app/task/LoadVideoImageTask.java
+END

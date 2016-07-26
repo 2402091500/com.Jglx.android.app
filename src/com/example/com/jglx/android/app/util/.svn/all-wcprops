@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/linxin2/!svn/ver/1338/com.Jglx.android.app/src/com/example/com/jglx/android/app/util
+END
+PreferenceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/303/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/PreferenceUtils.java
+END
+HXPreferenceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linxin2/!svn/ver/303/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/HXPreferenceUtils.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/linxin2/!svn/ver/875/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/Utils.java
+END
+Tools.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/linxin2/!svn/ver/430/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/Tools.java
+END
+ShareUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/1338/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/ShareUtil.java
+END
+ImageDownLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/875/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/ImageDownLoader.java
+END
+ImageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/303/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/ImageUtils.java
+END
+CryptionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/CryptionUtil.java
+END
+DataCleanManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linxin2/!svn/ver/1328/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/DataCleanManager.java
+END
+IOSDialogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/152/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/IOSDialogUtil.java
+END
+CommonUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/303/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/CommonUtils.java
+END
+ImageWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/522/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/ImageWorker.java
+END
+UIHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/UIHelper.java
+END
+AppUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/linxin2/!svn/ver/303/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/AppUtil.java
+END
+LogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/LogUtil.java
+END
+ImageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/1275/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/ImageUtil.java
+END
+UploadUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/430/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/UploadUtil.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/Base64.java
+END
+Iconstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/Iconstants.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/MD5.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/StringUtils.java
+END
+SmileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/1122/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/SmileUtils.java
+END
+TipsToast.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/TipsToast.java
+END
+DialogUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/1321/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/DialogUtil.java
+END
+Des3.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/linxin2/!svn/ver/280/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/Des3.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/linxin2/!svn/ver/1020/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/DateUtils.java
+END
+CrashHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/1337/com.Jglx.android.app/src/com/example/com/jglx/android/app/util/CrashHandler.java
+END

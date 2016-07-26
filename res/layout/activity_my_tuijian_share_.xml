@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.com.jglx.android.app.ui.My_tuijian_share_Activity" >
+    <com.example.com.jglx.android.app.view.CustomScrollView
+        android:id="@+id/My_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none"
+        android:scrollbars="none" >
+        <LinearLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical">
+            
+       
+        <ImageView 
+            android:id="@+id/image2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/share2"/>
+        <ImageView 
+            android:id="@+id/image3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/share3"/>
+        
+        <FrameLayout 
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+         <ImageView 
+            android:id="@+id/image1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/share1"/>
+        
+        <ImageButton
+            android:id="@+id/xiazai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/my_share_bt"
+            android:background="@null"
+            android:layout_gravity="bottom|center_horizontal"
+            android:paddingBottom="50dp"
+            />
+        </FrameLayout>
+        </LinearLayout>
+        
+        </com.example.com.jglx.android.app.view.CustomScrollView>
+        
+    
+
+</RelativeLayout>

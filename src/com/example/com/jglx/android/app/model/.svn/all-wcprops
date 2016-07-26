@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/linxin2/!svn/ver/527/com.Jglx.android.app/src/com/example/com/jglx/android/app/model
+END
+HXNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/299/com.Jglx.android.app/src/com/example/com/jglx/android/app/model/HXNotifier.java
+END
+CallReceiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/527/com.Jglx.android.app/src/com/example/com/jglx/android/app/model/CallReceiver.java
+END
+HXSDKModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/linxin2/!svn/ver/408/com.Jglx.android.app/src/com/example/com/jglx/android/app/model/HXSDKModel.java
+END
+DefaultHXSDKModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/408/com.Jglx.android.app/src/com/example/com/jglx/android/app/model/DefaultHXSDKModel.java
+END
+DemoHXSDKModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/408/com.Jglx.android.app/src/com/example/com/jglx/android/app/model/DemoHXSDKModel.java
+END

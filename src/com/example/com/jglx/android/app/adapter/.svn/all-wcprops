@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/linxin2/!svn/ver/1405/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter
+END
+ExpressionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/linxin2/!svn/ver/292/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/ExpressionAdapter.java
+END
+LXPagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linxin2/!svn/ver/184/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/LXPagerAdapter.java
+END
+GroupGagAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/893/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/GroupGagAdapter.java
+END
+PushActionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/1360/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PushActionAdapter.java
+END
+ActionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linxin2/!svn/ver/545/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/ActionAdapter.java
+END
+DiscussAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linxin2/!svn/ver/913/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/DiscussAdapter.java
+END
+MyFriendAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/935/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/MyFriendAdapter.java
+END
+ExpressionPagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linxin2/!svn/ver/292/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/ExpressionPagerAdapter.java
+END
+ChatAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/1261/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/ChatAdapter.java
+END
+GroupDetailAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/893/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/GroupDetailAdapter.java
+END
+PushReChargeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linxin2/!svn/ver/1376/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PushReChargeAdapter.java
+END
+AddFriendAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/linxin2/!svn/ver/965/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/AddFriendAdapter.java
+END
+HorizontalListViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/linxin2/!svn/ver/929/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/HorizontalListViewAdapter.java
+END
+PanoramaGLAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/1064/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PanoramaGLAdapter.java
+END
+ItemDetailAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/1405/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/ItemDetailAdapter.java
+END
+BillAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/1055/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/BillAdapter.java
+END
+PlaceAdpter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/1346/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PlaceAdpter.java
+END
+HotListAdpter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linxin2/!svn/ver/812/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/HotListAdpter.java
+END
+NearAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linxin2/!svn/ver/611/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/NearAdapter.java
+END
+PushLMMAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/1360/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PushLMMAdapter.java
+END
+InvateApdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/linxin2/!svn/ver/1399/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/InvateApdater.java
+END
+PhotoAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/862/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PhotoAdapter.java
+END
+ChatAllHistoryAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linxin2/!svn/ver/1390/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/ChatAllHistoryAdapter.java
+END
+PhotoGridViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linxin2/!svn/ver/870/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PhotoGridViewAdapter.java
+END
+PushEnrollAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/1360/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/PushEnrollAdapter.java
+END
+ServerGridItemAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/linxin2/!svn/ver/634/com.Jglx.android.app/src/com/example/com/jglx/android/app/adapter/ServerGridItemAdapter.java
+END

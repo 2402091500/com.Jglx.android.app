@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/linxin2/!svn/ver/1391/com.Jglx.android.app/src/com/example/com/jglx/android/app/http
+END
+SerializableCookie.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/SerializableCookie.java
+END
+BinaryHttpResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/BinaryHttpResponseHandler.java
+END
+RequstClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/1391/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/RequstClient.java
+END
+RetryHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/RetryHandler.java
+END
+AsyncHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/AsyncHttpRequest.java
+END
+JsonHttpResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/JsonHttpResponseHandler.java
+END
+CustomResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/426/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/CustomResponseHandler.java
+END
+PersistentCookieStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/PersistentCookieStore.java
+END
+SimpleMultipartEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/SimpleMultipartEntity.java
+END
+AsyncHttpResponseHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/AsyncHttpResponseHandler.java
+END
+SyncHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/SyncHttpClient.java
+END
+AsyncHttpClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/linxin2/!svn/ver/277/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/AsyncHttpClient.java
+END
+RequestParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/linxin2/!svn/ver/372/com.Jglx.android.app/src/com/example/com/jglx/android/app/http/RequestParams.java
+END
